@@ -13,7 +13,7 @@
    <testCaseLink>
       <guid>f4d193fd-a62e-47e9-b1b2-e2219c75bf29</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Day 1/Test1_Katalon</testCaseId>
    </testCaseLink>
    <testCaseLink>
@@ -25,7 +25,7 @@
    <testCaseLink>
       <guid>c96c8e28-2db9-4d35-88d1-6637139242a6</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
+      <isRun>false</isRun>
       <testCaseId>Test Cases/Day 1/Test3_Expedia</testCaseId>
    </testCaseLink>
    <testCaseLink>
