@@ -30,7 +30,7 @@ WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/input_Password_Subm
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Welcome Admin'))
 
-WebUI.click(findTestObject('Page_OrangeHRM/input_Password_Submit'))
+WebUI.click(findTestObject('Page_OrangeHRM/a_Logout'))
 
 WebUI.closeBrowser()
 
